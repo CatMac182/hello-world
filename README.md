@@ -1,2 +1,3 @@
 # hello-world
-My first test repository
+My first test repository<br>
+Adding my first commit
